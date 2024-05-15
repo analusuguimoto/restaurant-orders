@@ -1,10 +1,5 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Restaurant Orders 🍴
+O objetivo deste projeto foi praticar o conceito de Hashmaps através das estruturas de dados Dict e Set do Python;
+
+## Desenvolvimento
+Foi desenvolvida uma ferramenta de construção de cardápios de um restaurante fictício. A ferramenta possibilita que o restaurante possa gerar seus cardápios considerando possíveis restrições alimentares e também a disponibilidade dos ingredientes em estoque.
